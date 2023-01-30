@@ -1,0 +1,17 @@
+C:\Users\Simon\source\repos\Stealz\Stealz\obj\Debug\net6.0\Stealz.csproj.AssemblyReference.cache
+C:\Users\Simon\source\repos\Stealz\Stealz\obj\Debug\net6.0\Stealz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\source\repos\Stealz\Stealz\obj\Debug\net6.0\Stealz.AssemblyInfoInputs.cache
+C:\Users\Simon\source\repos\Stealz\Stealz\obj\Debug\net6.0\Stealz.AssemblyInfo.cs
+C:\Users\Simon\source\repos\Stealz\Stealz\obj\Debug\net6.0\Stealz.csproj.CoreCompileInputs.cache
+C:\Users\Simon\source\repos\Stealz\Stealz\bin\Debug\net6.0\Stealz.exe
+C:\Users\Simon\source\repos\Stealz\Stealz\bin\Debug\net6.0\Stealz.deps.json
+C:\Users\Simon\source\repos\Stealz\Stealz\bin\Debug\net6.0\Stealz.runtimeconfig.json
+C:\Users\Simon\source\repos\Stealz\Stealz\bin\Debug\net6.0\Stealz.dll
+C:\Users\Simon\source\repos\Stealz\Stealz\bin\Debug\net6.0\Stealz.pdb
+C:\Users\Simon\source\repos\Stealz\Stealz\bin\Debug\net6.0\CSharpDiscordWebhook.NET.dll
+C:\Users\Simon\source\repos\Stealz\Stealz\obj\Debug\net6.0\Stealz.csproj.CopyComplete
+C:\Users\Simon\source\repos\Stealz\Stealz\obj\Debug\net6.0\Stealz.dll
+C:\Users\Simon\source\repos\Stealz\Stealz\obj\Debug\net6.0\refint\Stealz.dll
+C:\Users\Simon\source\repos\Stealz\Stealz\obj\Debug\net6.0\Stealz.pdb
+C:\Users\Simon\source\repos\Stealz\Stealz\obj\Debug\net6.0\Stealz.genruntimeconfig.cache
+C:\Users\Simon\source\repos\Stealz\Stealz\obj\Debug\net6.0\ref\Stealz.dll

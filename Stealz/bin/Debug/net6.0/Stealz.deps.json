@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Stealz/1.0.0": {
+        "dependencies": {
+          "CSharpDiscordWebhook.NET": "2.7.1"
+        },
+        "runtime": {
+          "Stealz.dll": {}
+        }
+      },
+      "CSharpDiscordWebhook.NET/2.7.1": {
+        "runtime": {
+          "lib/net6.0/CSharpDiscordWebhook.NET.dll": {
+            "assemblyVersion": "2.7.1.0",
+            "fileVersion": "2.7.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Stealz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CSharpDiscordWebhook.NET/2.7.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HdbdW6IYIo7MaP2L1qU5kH0Jf0C7h0dCXc2GbIMOzrzRUvqG4UGSmAy1vp10ljviiycuX7sTdc6rj9441nCv6A==",
+      "path": "csharpdiscordwebhook.net/2.7.1",
+      "hashPath": "csharpdiscordwebhook.net.2.7.1.nupkg.sha512"
+    }
+  }
+}

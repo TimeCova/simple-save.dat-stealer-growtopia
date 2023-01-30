@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SKiS/YftCvCC7OEm+mp5embpLcPHOCGFWhlLPRmz90ZHFIub1n6romuxgJG71FL8jd/eG8ctjIYmhSKN/sCATg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Simon\\source\\repos\\Stealz\\Stealz\\Stealz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Simon\\.nuget\\packages\\csharpdiscordwebhook.net\\2.7.1\\csharpdiscordwebhook.net.2.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
